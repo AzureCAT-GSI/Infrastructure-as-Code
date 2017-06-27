@@ -1,3 +1,7 @@
+> **Update:** Hello! As of 1 January 2017 this content is no longer being actively managed and updated. It is provided as-is and may contain information that has changed. Any Issues will be addressed on a best-effort basis. Please see [Azure.com](http://www.azure.com) for the latest guidance. Thank you for your understanding.
+
+---
+
 # ARM-End-to-End
 ARM is key to making any offering repeatable and potentially fully automated to deploy. Management inside the VMs is key to creating very large environments on which offerings could run, and helps make the mindshift from on-prem to Cloud. 
 
